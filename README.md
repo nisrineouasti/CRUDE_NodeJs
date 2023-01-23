@@ -9,7 +9,7 @@ We will build a full-stack Tutorial Application in that:
 
 ![angular-10-node-js-mysql-crud-example](angular-10-node-js-mysql-crud-example.png)
 
-Tutorial link: [Angular 10 + Node.js Express + MySQL CRUD example](https://bezkoder.com/angular-10-node-js-express-mysql/)
+
 
 
 ## Project setup
